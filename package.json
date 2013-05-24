@@ -1,0 +1,11 @@
+{
+  "name": "websockets-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "browserify": "*",
+    "shoe": "*",
+    "duplex-emitter": "*",
+    "reconnect": "*",
+    "ecstatic": "*"
+  }
+}
